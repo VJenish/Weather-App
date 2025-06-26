@@ -20,7 +20,11 @@ A clean, responsive desktop weather application built using Java Swing that fetc
 • ✨ Placeholder label over JTextField using JLayeredPane
 
 📦 Technologies Used
+
 • Java Swing (for GUI)
+
 • JSON-simple (to parse weather data)
+
 • Custom icons for weather, humidity, and wind
+
 • Optional: API or mocked weather data (depending on implementation of WeatherApp.getWeatherData())
